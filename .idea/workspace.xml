@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b14b574e-8265-48db-bd5b-fe17f7c1106a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XelXHo1P7K8t9SrsElXwgvwf1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.SchemaEvolution">
+    <configuration name="GenericRecordExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.axel.se.avro.generic.GenericRecordExample" />
+      <module name="learning-life-of-avro-disiacs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.axel.se.avro.specific.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.axel.se.avro.reflection.ReflectExample" />
+      <module name="learning-life-of-avro-disiacs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.axel.se.avro.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaEvolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.axel.se.avro.evolution.SchemaEvolution" />
+      <module name="learning-life-of-avro-disiacs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.axel.se.avro.evolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecificRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.axel.se.avro.specific.SpecificRecord" />
+      <module name="learning-life-of-avro-disiacs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.axel.se.avro.specific.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="learning-life-of-avro-disiacs" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="learning-life-of-avro-disiacs" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SchemaEvolution" />
+        <item itemvalue="Application.ReflectExample" />
+        <item itemvalue="Application.SpecificRecord" />
+        <item itemvalue="Application.GenericRecordExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b14b574e-8265-48db-bd5b-fe17f7c1106a" name="Default Changelist" comment="" />
+      <created>1581414478932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581414478932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="190" width="802" height="682" key="#Inspections" timestamp="1581430081755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="190" width="802" height="682" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1581430081755" />
+    <state x="558" y="190" width="802" height="682" key="#Project_Structure" timestamp="1581423710937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="190" width="802" height="682" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1581423710937" />
+    <state x="647" y="335" width="623" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581425255442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="335" width="623" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581425255442" />
+    <state x="771" y="232" width="376" height="597" key="#com.intellij.ide.util.MemberChooser" timestamp="1581428930549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="232" width="376" height="597" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581428930549" />
+    <state width="917" height="274" key="GridCell.Tab.0.bottom" timestamp="1581433874295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581433874295" />
+    <state width="917" height="274" key="GridCell.Tab.0.center" timestamp="1581433874295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581433874295" />
+    <state width="917" height="274" key="GridCell.Tab.0.left" timestamp="1581433874295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581433874295" />
+    <state width="917" height="274" key="GridCell.Tab.0.right" timestamp="1581433874295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581433874295" />
+  </component>
+</project>
